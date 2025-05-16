@@ -3,20 +3,36 @@ body{
 
 }
 
-
-
-
 .h001{
  
     border: 2px solid red;
     padding: 40px;
+    
 
 }
 
 #h002{
     display: flex;
-  
-    background: red;
     float: right;
-    margin-top: 19px;
+    margin: auto;
+    position: absolute;
+    top: 20px;
+    right:5% ;
+  
+}
+
+li{
+     list-style-type: none;
+    padding: 10px;
+    text-align: center;
+
+}
+
+
+
+.h003{
+    color: brown;
+    text-decoration: none;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+
 }
