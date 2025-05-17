@@ -1,0 +1,28 @@
+body{
+    background: rgb(56, 56, 128);
+    margin: 0%;
+}
+
+.h004{
+    display: block;
+    border:2px solid black;
+    float: center;
+    justify-content: center;
+    align-items: center;
+    margin: 180px auto;
+    height: 200px;
+    width: 450px;
+}
+
+
+.foto{
+    background: navajowhite;
+    height: 150px;
+    width: 150px;
+}
+
+h1, h3 , button{
+    font-family: Arial, Helvetica, sans-serif;
+    color: brown;
+}
+
