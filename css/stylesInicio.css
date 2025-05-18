@@ -1,11 +1,14 @@
 body{
-    background: rgb(56, 56, 128);
-    margin: 0%;
+    background-image: url(/img/Captura.png);
+    background-repeat: no-repeat;
+    margin: auto;
+   
+    
 }
 
 .h004{
     display: block;
-    border:2px solid black;
+    
     float: center;
     justify-content: center;
     align-items: center;
@@ -16,13 +19,24 @@ body{
 
 
 .foto{
-    background: navajowhite;
+    background: rgb(16, 33, 155);
     height: 150px;
     width: 150px;
+    float: right;
+    margin: 10px;
+    border-radius: 50%;
 }
 
 h1, h3 , button{
     font-family: Arial, Helvetica, sans-serif;
     color: brown;
+}
+
+
+.btn002{
+    border-radius: 10%;
+    background: rgb(10, 79, 111);
+    margin: 20px;
+
 }
 
