@@ -1,6 +1,6 @@
 body{
 
-   
+   background: rgb(7, 78, 146);
     
 }
 
@@ -10,7 +10,7 @@ body{
     float: center;
     justify-content: center;
     align-items: center;
-    margin: 180px auto;
+    margin: 150px auto;
     height: 200px;
     width: 450px;
 }

@@ -1,5 +1,5 @@
-body{
-    background:blue;
+.h004{
+    background:rgb(13, 13, 145);
     animation-name: efectosMovimientos;
     animation-direction: alternate;
     animation-duration:5s ;
@@ -8,11 +8,11 @@ body{
 @keyframes efectosMovimientos {
 
     from{
-        background: rgb(3, 3, 72);
+       
         opacity: 0%;
     } 
     to{
-        background: rgb(0, 0, 122);
+       
         opacity: 100%;
     }
 
